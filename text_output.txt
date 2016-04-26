@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x 6 ruchika ruchika 4096 Apr 15 14:27 flaskenv
+-rw-rw-r-- 1 ruchika ruchika 1084 Apr 25 15:29 req.py
+-rw-rw-r-- 1 ruchika ruchika 1651 Apr 25 15:08 req.pyc
+-rw-rw-r-- 1 ruchika ruchika  405 Apr 25 13:13 task.py
+-rw-rw-r-- 1 ruchika ruchika  792 Apr 15 15:36 task.pyc
+-rw-rw-r-- 1 ruchika ruchika   17 Apr 25 06:58 test.txt
+-rw-rw-r-- 1 ruchika ruchika    0 Apr 25 15:30 text_output.txt
